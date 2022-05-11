@@ -1,0 +1,23 @@
+{
+    "name": "atwood-dark",
+    "displayName": "Atwood Dark",
+    "publisher": "LipiSharma",
+    "description": "Customized theme ^^",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "icon": "dark.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atwood Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atwood Dark-color-theme.json"
+            }
+        ]
+    }
+}
